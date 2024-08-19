@@ -2,7 +2,7 @@
 
 Ciencia y fútbol: ayudando al Levante UD con matemáticas y datos
 
-1️⃣ Presentación: 
+1️⃣ Presentación: <br>
 ¿Quiénes somos? 🫂 ¿Qué hacemos? 👩‍💻
 
 
